@@ -39,6 +39,3 @@ score_array(word)
 word = "hello"
 score_string(word)
 total_score_string(word)
-
-
-
